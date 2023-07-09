@@ -314,7 +314,7 @@ video{
 .last{
     height: 45vh;
     width: 100%;
-    background: linear-gradient(to bottom, black, maroon);
+    background: linear-gradient(to bottom, black, maroon,black);
     display: flex;
     align-items: center;
     justify-content: flex-start;
